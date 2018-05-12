@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Lily_Braun
     - http://de.wikipedia.org/wiki/Lily_Braun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14075#Die-Frauenfrageihre-geschichtliche-Entwicklung-und-wirtschaftliche-Seite
 gutenberg_bookshelf:
 - German Language Books
 - DE Sachbuch
